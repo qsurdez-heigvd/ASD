@@ -1,0 +1,10 @@
+| Title                                                                                                   | Quick Description                                                          | Language | Grade |
+|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------|-------|
+| [Lab 1 - Complexities](https://github.com/qsurdez-heigvd/ASD/tree/main/lab01)                           | Analysis and implementation of algorithms with different time complexities | C++      | 5.4   |
+| [Lab 2 - Recursivity](https://github.com/qsurdez-heigvd/ASD/tree/main/lab02)                            | Implementation of various recursive algorithms to solve puzzle             | C++      | 5.9   |
+| [Lab 3 - Sorts](https://github.com/qsurdez-heigvd/ASD/tree/main/lab03)                                  | Implementation and comparison of different sorting algorithms              | C++      | NA    |
+| [Lab 4 - Dynamic Allocation](https://github.com/qsurdez-heigvd/ASD/tree/main/lab04)                     | Working with dynamic memory allocation for data structures                 | C++      | NA    |
+| [Lab 5 - Circular buffer with variable capacity](https://github.com/qsurdez-heigvd/ASD/tree/main/lab05) | Building a circular buffer with variable capacity                          | C++      | 5.3   |
+| [Lab 6 - Singly Linked List](https://github.com/qsurdez-heigvd/ASD/tree/main/lab06)                     | Implementation of a singly linked list data structure                      | C++      | NA    |
+| [Lab 7 - Évaluation d'expression](https://github.com/qsurdez-heigvd/ASD/tree/main/lab07)                | Building an expression evaluator using stack-based parsing                 | C++      | NA    |
+| [Lab 8 - AVL Trees](https://github.com/qsurdez-heigvd/ASD/tree/main/lab08)                              | Implementation of self-balancing AVL tree data structure                   | C++      | 5.5   |
